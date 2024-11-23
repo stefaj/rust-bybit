@@ -2,6 +2,12 @@ pub mod error;
 pub mod util;
 pub mod ws;
 
+
+pub mod bybit;
+pub mod endpoints;
+pub mod errors;
+pub mod helpers;
+
 pub use ws::WebSocketApiClient;
 
 pub enum FutureRole {

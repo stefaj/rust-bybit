@@ -71,6 +71,9 @@ match client.run(callback) {
 
 This is a simple example that just print the received WebSocket responses. There are some more complex [examples](https://github.com/yufuquant/rust-bybit/tree/main/examples) for real usage demonstration, such as maintaining a local order book. You can run `cargo run --example local_orderbook` to see how it works.
 
+## Notes
+Also merged https://github.com/domambia/bybit_rs/tree/main for HTTP stuff
+
 ## Donate
 
 You can donate to following cryptocurrency wallet addresses to help this project going further.
@@ -81,3 +84,5 @@ You can donate to following cryptocurrency wallet addresses to help this project
 | BNB Smart Chain (BEP20) | 0x869F8F9A78a18818F93061A02B233507b5F64151 |
 | Tron (TRC20)            | TPvqJYHFQ7iqEgtEcYrSLTjpGsAq41dhFt         |
 | Bitcoin                 | 3C6o4ADGFXyuf6TUXKL6YyMyRfhek6zxzx         |
+
+
